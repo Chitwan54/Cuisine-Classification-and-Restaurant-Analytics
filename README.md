@@ -9,7 +9,7 @@ Cuisine Classification and Restaurant Analytics is an end to end Data Science pr
   
   **Tools, Technology and Libraries used:**
    * Python programming language
-   * Selenium Web Driver for web scraping
+   * Selenium Web Driver is used for web scraping
    * Pandas, re (Regular Expression), NumPy are used for data cleaning and storing.
    
   * The scraped data is provided in the repository in a csv file format along with the data dictionary.
