@@ -1,15 +1,15 @@
-The CSV file contains the data of various restaurants(5000+ data points) scraped from https://www.dineout.co.in/. In this project, following data points are scraped:
+The CSV file contains the data of various restaurants(5000+ data points) scraped from https://www.dineout.co.in/. In this project, the following data points are scraped:
 
-1. Name : Name of the restaurant
+1. Name: Name of the restaurant
 2. Address:  Address of the restaurant
 3. Cost_for_2: Cost for 2 people in that restaurant
-4. About: A brief description about the restaurant
-5. Type: What type of place is that(Casual Dininh/Bar/Lounge etc.)
-6. Facilities: Facilites offered by the restaurant
+4. About: A brief description of the restaurant
+5. Type: What type of place is that(Casual Dining/Bar/Lounge etc.)
+6. Facilities: Facilites  offered by the restaurant
 7. Contact: Contact number of the restaurant
 8. Cuisine: Cuisine offered by the restaurant
 9. Latitude: Latitude of the restaurant
-10.Longitude:Latitude of the restaurant
+10.Longitude: Latitude of the restaurant
 11. Start: Stars given to the restaurant by customers
-12. Vote_Count: Number of Votes recieved
-13. Review_Count: Number of Reviews recieved given to the restaurant by the customers
+12. Vote_Count: Number of Votes received
+13. Review_Count: Number of Reviews received given to the restaurant by the customers
