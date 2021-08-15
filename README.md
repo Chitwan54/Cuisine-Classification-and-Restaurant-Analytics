@@ -23,4 +23,5 @@ Cuisine Classification and Restaurant Analytics is an end to end Data Science pr
   * State of the Art Deep Learning models like **BERT** is also used. However, due to lack of computation power the BERT model has been trained for few iterations which does not yield good results.
   * However, **XGBoost Classifier** gives good results.
 
+Note: The project is in progress. Thank you.
 
